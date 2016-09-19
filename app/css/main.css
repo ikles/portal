@@ -1,0 +1,481 @@
+#zo2-position-17 {
+  width: 200px; }
+  #zo2-position-17 .custom {
+    height: 28px !important; }
+  #zo2-position-17 p {
+    height: auto;
+    text-align: right;
+    line-height: 2.3;
+    color: #7e7e7e;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    word-spacing: 5px;
+    margin-top: 29px; }
+    #zo2-position-17 p img {
+      float: right;
+      margin-left: 13px; }
+
+#zo2-position-16 {
+  width: 145px; }
+  #zo2-position-16 .custom {
+    margin-top: 27px; }
+
+input#search-area162 {
+  width: 100%;
+  height: 40px;
+  background-color: #fafafa;
+  border: 0.25px solid #e3e3e3;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  color: #7e7e7e;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  padding-left: 10px; }
+
+#offlajn-ajax-search162 {
+  margin-top: 22px;
+  width: 100%; }
+  #offlajn-ajax-search162 .offlajn-ajax-search-container {
+    padding: 0;
+    background: none; }
+
+#zo2-position-16 p {
+  text-align: right;
+  margin-top: 0; }
+
+#zo2-position-16 img {
+  float: right; }
+
+input#suggestion-area162 {
+  display: none; }
+
+#ajax-search-button162 {
+  border: none;
+  background: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  outline: none;
+  background: url("../img/search.png") no-repeat 0 0;
+  width: 18px;
+  height: 18px;
+  right: 10px;
+  top: 12px; }
+  #ajax-search-button162:hover {
+    background: none; }
+
+#ajax-search-button162 .magnifier {
+  width: 18px;
+  height: 18px;
+  background: none;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border: none; }
+
+#zo2-main-header-wrap {
+  height: 85px; }
+
+#standard-logo {
+  padding: 26px;
+  padding-left: 0; }
+
+#zo2-top-menu-wrap.menu-style1 {
+  background-color: #1955a5; }
+
+#zo2-top-menu-wrap.menu-style1 #zo2-mega-menu nav.zo2-menu .navbar-nav > li > a {
+  text-transform: none;
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: none; }
+
+.homepage #zo2-zt-slide-wrap {
+  margin-top: 20px; }
+
+.mod-headline-style4 .zt-category.headline .zt-main-items.col-md-6 {
+  height: 426px;
+  width: 580px;
+  padding-right: 20px; }
+
+.mod-headline-style4 .zt-category.headline .zt-list-items .col-md-6 {
+  width: 290px;
+  height: 207px;
+  padding: 0;
+  padding-right: 20px; }
+
+.list-cat a {
+  height: 25px;
+  background-color: #2b9428;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
+  color: white;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+  margin-bottom: 0; }
+
+.mod-headline-style4 .zt-category.headline .zt-main-items .zt-article_content {
+  padding: 25px 30px; }
+
+.post-info {
+  margin-bottom: 0; }
+
+.zt-main-items .zt-item .title-post {
+  margin-top: 30px; }
+
+.zt-main-items .zt-item .title-post {
+  color: white;
+  font-family: Roboto;
+  font-size: 19px;
+  font-weight: 500; }
+
+.tt-cmt, .tt-view {
+  display: none; }
+
+.post-info {
+  color: white;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400; }
+
+.zt-list-items .header-blog-item .title-post {
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 500; }
+
+.title-color-2980b9 h3.moduletitle {
+  color: #1955a5;
+  font-family: Roboto;
+  font-size: 21px;
+  font-weight: 700; }
+
+.zt-article_content .post-info {
+  color: #828282;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400; }
+
+#zo2-message {
+  width: 70%; }
+
+.col-right {
+  width: 30%; }
+
+.zt-category.newsiv3 .zt-main-items .post-thumnail {
+  margin-bottom: 20px; }
+
+.zt-category.newsiv3 .zt-main-items .zt-item .title-post {
+  margin-top: 0;
+  margin-bottom: 17px; }
+  .zt-category.newsiv3 .zt-main-items .zt-item .title-post a {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 500; }
+
+.zt-introtext {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.3;
+  margin-bottom: 10px; }
+
+.zt-category.newsiv3 .post-info {
+  margin-bottom: 38px; }
+
+.col-md-6.zt-main-items.head .zt-article_content .post-info {
+  margin-top: 15px;
+  margin-bottom: 1px; }
+
+#zo2-header-logo {
+  width: 513px; }
+
+.zt-category.newsiv3 .post-thumnail img {
+  height: 200px;
+  width: 395px; }
+
+.zt-category.newsiv3 .post-thumnail {
+  position: relative; }
+
+.zt-category.newsiv3 .zt-main-items > div {
+  padding: 0 10px; }
+
+.cat-title {
+  background-color: #2b9428;
+  -webkit-border-radius: 4px;
+          border-radius: 4px;
+  top: 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: white;
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  height: 25px;
+  right: 10px;
+  line-height: 1.8;
+  opacity: 0.8;
+  padding: 0 5px;
+  position: absolute; }
+
+.title-style1 h3.moduletitle, .title-block, h3.moduletitle {
+  color: #464646;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 700; }
+
+.title-style1 h3.moduletitle::after {
+  background-color: #1955a5; }
+
+.title-block::after, h3.moduletitle::after {
+  background-color: #1955a5;
+  bottom: -3px;
+  content: "";
+  display: block;
+  height: 3px;
+  left: 0;
+  position: absolute;
+  width: 55px; }
+
+.col-right::before {
+  display: none; }
+
+#zo2-position-8 {
+  padding-left: 10px; }
+
+.tags_134 {
+  overflow: hidden; }
+  .tags_134 li {
+    margin: 0 !important;
+    -webkit-border-radius: 0 !important;
+            border-radius: 0 !important;
+    margin-right: 20px !important;
+    margin-bottom: 20px !important; }
+    .tags_134 li a {
+      margin: 0;
+      -webkit-border-radius: 0 !important;
+              border-radius: 0 !important;
+      color: #1955a5 !important;
+      font-family: Roboto !important;
+      font-size: 13px !important;
+      font-weight: 500 !important;
+      background-color: #FFF;
+      height: 25px;
+      border: 2px solid #1955a5;
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      line-height: 1.6; }
+      .tags_134 li a:hover {
+        background-color: #FFF; }
+      .tags_134 li a:after {
+        display: none; }
+      .tags_134 li a:before {
+        display: none; }
+
+.all-tags {
+  width: 150px;
+  height: 40px;
+  background-color: #2b9428;
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 700;
+  display: inline-block;
+  text-align: center;
+  line-height: 2.7;
+  margin-top: 20px; }
+  .all-tags:hover {
+    width: 150px;
+    height: 40px;
+    background-color: #2b9428;
+    color: white;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    display: inline-block;
+    text-align: center;
+    line-height: 2.7; }
+
+.module-head {
+  color: white !important;
+  font-family: Roboto !important;
+  font-size: 17px !important;
+  font-weight: 700 !important;
+  border-bottom: 1px solid #b1b1b1;
+  padding-bottom: 14px;
+  line-height: 1;
+  opacity: 0.8;
+  margin-top: 0;
+  margin-bottom: 14px; }
+
+#zo2-position-22 {
+  width: 95px;
+  padding: 0; }
+
+#zo2-position-23 {
+  width: 491px;
+  padding-left: 68px;
+  padding-right: 0; }
+
+#zo2-position-23-2 {
+  width: 123px;
+  padding-left: 57px;
+  padding-right: 0;
+  -webkit-box-sizing: unset;
+          box-sizing: unset; }
+
+#zo2-position-24 {
+  width: 321px;
+  padding: 0; }
+
+#zo2-bottom-2-wrap .container {
+  padding: 0;
+  margin: 0;
+  margin: auto; }
+
+#zo2-bottom-2-wrap .row {
+  padding: 0;
+  margin: 0; }
+
+#zo2-bottom-2-wrap ul {
+  padding: 0; }
+  #zo2-bottom-2-wrap ul li {
+    padding: 0;
+    padding-bottom: 10px;
+    border-bottom: none; }
+    #zo2-bottom-2-wrap ul li a {
+      color: #b1b1b1;
+      font-family: Roboto;
+      font-size: 15px;
+      font-weight: 400;
+      line-height: 1; }
+      #zo2-bottom-2-wrap ul li a:hover {
+        background-color: transparent !important; }
+  #zo2-bottom-2-wrap ul .open {
+    background-color: transparent !important; }
+    #zo2-bottom-2-wrap ul .open a {
+      background-color: transparent !important; }
+      #zo2-bottom-2-wrap ul .open a:focus {
+        background-color: transparent !important; }
+
+#zo2-position-24 {
+  float: right; }
+
+.block-subscribe input {
+  height: 40px;
+  background-color: #fafafa;
+  color: #7e7e7e;
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal !important;
+  margin-bottom: 0 !important; }
+
+.block-subscribe input.button {
+  width: 36px !important;
+  height: 36px !important;
+  background-color: #1955a5 !important;
+  color: white !important;
+  font-family: Roboto !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  text-align: center !important;
+  padding: 0 !important;
+  font-weight: normal !important;
+  letter-spacing: normal;
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  padding-right: 36px; }
+
+.block-subscribe .acymailing_module_form {
+  position: relative; }
+
+.module.copyr {
+  margin-bottom: 0;
+  text-align: center;
+  border-top: 1px solid #b1b1b1;
+  padding-top: 10px;
+  opacity: 0.8; }
+
+#zo2-footer-copyright {
+  padding: 0;
+  color: #b1b1b1;
+  font-size: 13px;
+  line-height: 17px;
+  font-weight: 300; }
+  #zo2-footer-copyright span {
+    font-family: FontAwesome;
+    font-weight: 400; }
+  #zo2-footer-copyright p {
+    margin: 0; }
+
+.socials {
+  margin-bottom: 30px; }
+
+#zo2-position-23 .span6 {
+  float: left;
+  width: 30%; }
+
+#zo2-bottom-2-wrap {
+  padding-top: 20px; }
+
+/*==========  Desktop First Method  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+  /**/ }
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 992px) {
+  /**/ }
+
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+  /**/ }
+
+@media only screen and (max-width: 640px) {
+  /**/ }
+
+@media only screen and (max-width: 620px) {
+  /**/ }
+
+@media only screen and (max-width: 570px) {
+  /**/ }
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+  /**/ }
+
+@media only screen and (max-width: 360px) {
+  /**/ }
+
+@media only screen and (max-width: 320px) {
+  /**/ }
+
+/*==========  Mobile First Method  ==========*/
+/* Custom, iPhone Retina */
+@media only screen and (min-width: 320px) {
+  /**/ }
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width: 480px) {
+  /**/ }
+
+/* Small Devices, Tablets */
+@media only screen and (min-width: 1200px) {
+  /**/ }
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width: 992px) {
+  /**/ }
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width: 1200px) {
+  /**/ }
