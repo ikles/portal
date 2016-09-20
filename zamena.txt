@@ -18,3 +18,4 @@ Z:\home\portal\www\templates\zo2_maxazine\html\com_content\category\blog.php
 Z:\home\portal\www\templates\zo2_maxazine\html\com_content\category\blog-item.php
 portal\www\templates\zo2_maxazine\html\pagination.php
 закгрузить картинки в папку шаблона создать папку img  
+настройка меток вывод изображений компоненты метки
