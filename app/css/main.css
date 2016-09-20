@@ -658,7 +658,8 @@ input#suggestion-area162 {
 
 .tag-category #adminForm ul.category .images {
   float: left;
-  margin-right: 20px; }
+  margin-right: 20px;
+  margin-bottom: 10px; }
 
 .tag-category h2 {
   color: #1955a5;
@@ -670,12 +671,39 @@ input#suggestion-area162 {
   padding-bottom: 12px;
   margin-top: 20px;
   border-bottom: 3px solid #1955a5;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  margin-top: -11px; }
+
+.post-info.taggsa {
+  margin-top: 7px;
+  margin-bottom: 0; }
+  .post-info.taggsa time {
+    color: #828282;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400; }
+    .post-info.taggsa time .fa-clock-o:before {
+      margin-right: 5px; }
 
 .item-image a {
   width: 290px;
   height: 165px;
   display: block; }
+
+#jc {
+  display: none !important; }
+
+#zo2-component .icons {
+  display: none; }
+
+#zo2-component .title-post {
+  color: #1955a5;
+  font-family: Roboto;
+  font-size: 25px;
+  font-weight: 700; }
+
+#zo2-component .page-header {
+  display: none; }
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
