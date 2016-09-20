@@ -447,30 +447,110 @@ input#suggestion-area162
     font-weight: 700 !important
     margin-top: -9px
     
+.blog .items-leading 
+  display: block !important
 
-.items-leading
-  article
-    &:first-child
-      .postContent
-        a
-          &:first-child
-            overflow: hidden
-            width: 395px
-            height: 200px
-            display: block
-            float: left
-            margin-right: 23px
+
+.blog
+  .items-leading
+    display: block !important
+    .icons
+      display: none
+    .title-post
+      line-height: 0.5 !important
+      a
+        color: rgb(70, 70, 70)
+        font-family: Roboto
+        font-size: 19px
+        font-weight: 500
+        line-height: 1 !important
+    article
+      position: relative    
+      margin-bottom: 30px
+      padding-bottom: 0  
+    .postContent
+      line-height: 0
       img
-        width: 395px
-        height: auto
-        margin: 0 !important
-        border: none !important
-  .readmore
-    display: none
-  .article-info
-    display: none
-        
+        display: none
+      .cat-name
+        position: absolute
+        left: 202px
+        top: 0
+        display: inline-block
+        height: 25px
+        opacity: 0.8
+        background-color: rgb(43, 148, 40)
+        border-radius: 4px
+        text-align: center
+        span
+          opacity: 0.8
+          color: #FFF 
+          color: white
+          font-family: Roboto
+          font-size: 13px
+          font-weight: 400
+          line-height: 2
+          text-transform: none
+          padding: 0 10px
+    article
+      .block-image
+        margin: 0
+        float: left
+        margin-right: 18px
+        a
+          display: block
+          width: 290px  
+          height: 165px
+          overflow: hidden
+      &:first-child
+        margin-bottom: 50px
+        padding-bottom: 0
+        .cat-name
+          left: 310px
+        .block-image          
+          a          
+            &:first-child
+              overflow: hidden
+              width: 395px
+              height: 200px
+              display: block
+              float: left              
+              img
+                width: 395px
+                height: auto
+                margin: 0 !important
+                border: none !important
+    .readmore
+      display: none
+    .article-info
+      display: none       
+    .post-info
+      margin-bottom: 0
+    time
+      color: rgb(130, 130, 130)
+      font-family: Roboto
+      font-size: 13px
+      font-weight: 400
+      
 
+    .entry-header + div
+      p
+        color: rgb(70, 70, 70)
+        font-family: Roboto
+        font-size: 13px
+        font-weight: 400
+        line-height: 1.5
+  
+.blog .items-leading article.item 
+  border-bottom: none
+  padding-bottom: 0
+
+.pagination-wrapper
+  .counter
+    display: none
+      
+.homepage .pagination 
+  display: block
 
 
   

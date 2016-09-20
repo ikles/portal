@@ -440,25 +440,102 @@ input#suggestion-area162 {
   font-weight: 700 !important;
   margin-top: -9px; }
 
-.items-leading article:first-child .postContent a:first-child {
-  overflow: hidden;
-  width: 395px;
-  height: 200px;
-  display: block;
-  float: left;
-  margin-right: 23px; }
+.blog .items-leading {
+  display: block !important; }
 
-.items-leading article:first-child img {
-  width: 395px;
-  height: auto;
-  margin: 0 !important;
-  border: none !important; }
+.blog .items-leading {
+  display: block !important; }
+  .blog .items-leading .icons {
+    display: none; }
+  .blog .items-leading .title-post {
+    line-height: 0.5 !important; }
+    .blog .items-leading .title-post a {
+      color: #464646;
+      font-family: Roboto;
+      font-size: 19px;
+      font-weight: 500;
+      line-height: 1 !important; }
+  .blog .items-leading article {
+    position: relative;
+    margin-bottom: 30px;
+    padding-bottom: 0; }
+  .blog .items-leading .postContent {
+    line-height: 0; }
+    .blog .items-leading .postContent img {
+      display: none; }
+    .blog .items-leading .postContent .cat-name {
+      position: absolute;
+      left: 202px;
+      top: 0;
+      display: inline-block;
+      height: 25px;
+      opacity: 0.8;
+      background-color: #2b9428;
+      -webkit-border-radius: 4px;
+              border-radius: 4px;
+      text-align: center; }
+      .blog .items-leading .postContent .cat-name span {
+        opacity: 0.8;
+        color: #FFF;
+        color: white;
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 400;
+        line-height: 2;
+        text-transform: none;
+        padding: 0 10px; }
+  .blog .items-leading article .block-image {
+    margin: 0;
+    float: left;
+    margin-right: 18px; }
+    .blog .items-leading article .block-image a {
+      display: block;
+      width: 290px;
+      height: 165px;
+      overflow: hidden; }
+  .blog .items-leading article:first-child {
+    margin-bottom: 50px;
+    padding-bottom: 0; }
+    .blog .items-leading article:first-child .cat-name {
+      left: 310px; }
+    .blog .items-leading article:first-child .block-image a:first-child {
+      overflow: hidden;
+      width: 395px;
+      height: 200px;
+      display: block;
+      float: left; }
+      .blog .items-leading article:first-child .block-image a:first-child img {
+        width: 395px;
+        height: auto;
+        margin: 0 !important;
+        border: none !important; }
+  .blog .items-leading .readmore {
+    display: none; }
+  .blog .items-leading .article-info {
+    display: none; }
+  .blog .items-leading .post-info {
+    margin-bottom: 0; }
+  .blog .items-leading time {
+    color: #828282;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400; }
+  .blog .items-leading .entry-header + div p {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.5; }
 
-.items-leading .readmore {
+.blog .items-leading article.item {
+  border-bottom: none;
+  padding-bottom: 0; }
+
+.pagination-wrapper .counter {
   display: none; }
 
-.items-leading .article-info {
-  display: none; }
+.homepage .pagination {
+  display: block; }
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
