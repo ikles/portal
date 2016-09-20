@@ -534,57 +534,76 @@ input#suggestion-area162 {
 .pagination-wrapper .counter {
   display: none; }
 
-.homepage .pagination {
-  display: inline-block;
-  text-align: center; }
-  .homepage .pagination a {
-    display: inline-block; }
-  .homepage .pagination .fa {
-    font-family: Roboto;
-    width: 35px;
-    height: 12px;
-    content: "";
-    background-repeat: no-repeat;
-    background-position: 0 0; }
-    .homepage .pagination .fa:after {
-      display: none; }
-    .homepage .pagination .fa:before {
-      display: none; }
-  .homepage .pagination .fa-angle-left {
-    background-image: url("../img/toleft.png"); }
-  .homepage .pagination .fa-angle-right {
-    background-image: url("../img/toright.png"); }
-  .homepage .pagination .active span {
-    width: 20px;
-    height: 20px;
-    background-color: #1955a5;
-    display: block;
-    color: white;
-    font-family: Roboto;
-    font-size: 13px;
-    font-weight: 700;
-    border: none;
-    line-height: 1.55;
-    padding: 0;
-    margin: 0;
-    margin-right: 3px;
-    padding: 0; }
-    .homepage .pagination .active span:hover {
-      background-color: #1955a5; }
-  .homepage .pagination a {
-    color: #464646;
-    font-family: Roboto;
-    font-size: 13px;
-    font-weight: 700;
-    width: 20px;
-    height: 20px;
-    text-align: center;
-    padding: 0;
-    border: none;
-    line-height: 1.55;
-    margin-right: 3px; }
-    .homepage .pagination a:hover {
-      background-color: #1955a5; }
+.pagination {
+  height: 20px !important;
+  display: inline-block !important;
+  text-align: center !important; }
+  .pagination li {
+    height: 20px !important;
+    line-height: 1 !important; }
+  .pagination a {
+    display: inline-block !important;
+    border: none !important;
+    line-height: 1.55 !important; }
+  .pagination .fa {
+    width: 20px !important;
+    height: 20px !important;
+    font-family: Roboto     !important;
+    content: ""  !important;
+    background-repeat: no-repeat  !important;
+    background-position: 0 0      !important; }
+    .pagination .fa:after {
+      display: none !important; }
+    .pagination .fa:before {
+      display: none !important; }
+  .pagination .fa-angle-left {
+    background-image: url("../img/prev.png") !important; }
+  .pagination .fa-angle-right {
+    background-image: url("../img/next.png") !important; }
+  .pagination .nach {
+    background-image: url("../img/start.png") !important; }
+  .pagination .kon {
+    background-image: url("../img/end.png") !important; }
+  .pagination .active span {
+    padding: 0 !important;
+    border: none !important;
+    padding: 0  !important;
+    height: 20px !important;
+    width: 20px !important;
+    color: #464646 !important;
+    font-family: Roboto !important;
+    font-size: 13px !important;
+    font-weight: 700 !important;
+    line-height: 1.55 !important; }
+    .pagination .active span:hover {
+      background-color: #1955a5 !important; }
+  .pagination a {
+    padding: 0  !important;
+    height: 20px !important;
+    width: 20px !important;
+    color: #464646 !important;
+    font-family: Roboto !important;
+    font-size: 13px !important;
+    font-weight: 700 !important; }
+    .pagination a:hover {
+      background: transparent !important;
+      color: #464646 !important; }
+
+.pagination-wrapper .pagination span {
+  padding: 0 !important;
+  border: none !important;
+  width: 20px !important;
+  height: 20px !important;
+  background-color: #1955a5 !important;
+  color: white !important;
+  font-size: 13px !important;
+  font-weight: 700 !important;
+  line-height: 1.75 !important; }
+  .pagination-wrapper .pagination span:hover {
+    background-color: #1955a5 !important; }
+
+.pagination > li > a {
+  line-height: 1.6 !important; }
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */

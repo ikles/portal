@@ -549,59 +549,79 @@ input#suggestion-area162
   .counter
     display: none
       
-.homepage .pagination 
-  display: inline-block
-  text-align: center
+.pagination 
+  height: 20px !important
+  display: inline-block !important
+  text-align: center !important
+  li
+    height: 20px !important
+    line-height: 1 !important
   a
-    display: inline-block
+    display: inline-block !important
+    border: none !important    
+    line-height: 1.55 !important
   .fa
-    font-family: Roboto
-    width: 35px
-    height: 12px
-    content: "" 
-    background-repeat: no-repeat 
-    background-position: 0 0     
+    width: 20px !important
+    height: 20px !important
+    font-family: Roboto     !important
+    content: ""  !important
+    background-repeat: no-repeat  !important
+    background-position: 0 0      !important
     &:after
-      display: none
+      display: none !important   
     &:before
-      display: none
+      display: none !important
   .fa-angle-left
-    background-image:  url("../img/toleft.png")
+    background-image:  url("../img/prev.png") !important
   .fa-angle-right
-    background-image:  url("../img/toright.png")    
+    background-image:  url("../img/next.png")        !important
+  .nach
+    background-image:  url("../img/start.png") !important
+  .kon
+    background-image:  url("../img/end.png") !important
   .active
     span
-      width: 20px
-      height: 20px
-      background-color: rgb(25, 85, 165)
-      display: block
-      color: white
-      font-family: Roboto
-      font-size: 13px
-      font-weight: 700
-      border: none
-      line-height: 1.55
-      padding: 0
-      margin: 0
-      margin-right: 3px
-      padding: 0
+      padding: 0 !important
+      border: none !important
+      padding: 0  !important
+      height: 20px !important
+      width: 20px !important
+      color: rgb(70, 70, 70) !important
+      font-family: Roboto !important
+      font-size: 13px !important
+      font-weight: 700 !important
+      line-height: 1.55 !important
       &:hover
-        background-color: rgb(25, 85, 165)
+        background-color: rgb(25, 85, 165) !important
+      
   a
-    color: rgb(70, 70, 70)
-    font-family: Roboto
-    font-size: 13px
-    font-weight: 700
-    width: 20px
-    height: 20px
-    text-align: center
-    padding: 0
-    border: none
-    line-height: 1.55
-    margin-right: 3px
+    padding: 0  !important
+    height: 20px !important
+    width: 20px !important
+    color: rgb(70, 70, 70) !important
+    font-family: Roboto !important
+    font-size: 13px !important
+    font-weight: 700 !important
     &:hover
-      background-color: rgb(25, 85, 165)
+        background: transparent !important
+        color: rgb(70, 70, 70) !important
+  
 
+.pagination-wrapper .pagination span
+  padding: 0 !important
+  border: none !important
+  width: 20px !important
+  height: 20px !important
+  background-color: rgb(25, 85, 165) !important
+  color: white !important
+  font-size: 13px !important
+  font-weight: 700 !important
+  line-height: 1.75 !important
+  &:hover
+    background-color: rgb(25, 85, 165) !important
+
+.pagination > li > a 
+  line-height: 1.6 !important
 
   
 @import media
