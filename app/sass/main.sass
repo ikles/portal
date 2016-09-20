@@ -550,7 +550,57 @@ input#suggestion-area162
     display: none
       
 .homepage .pagination 
-  display: block
+  display: inline-block
+  text-align: center
+  a
+    display: inline-block
+  .fa
+    font-family: Roboto
+    width: 35px
+    height: 12px
+    content: "" 
+    background-repeat: no-repeat 
+    background-position: 0 0     
+    &:after
+      display: none
+    &:before
+      display: none
+  .fa-angle-left
+    background-image:  url("../img/toleft.png")
+  .fa-angle-right
+    background-image:  url("../img/toright.png")    
+  .active
+    span
+      width: 20px
+      height: 20px
+      background-color: rgb(25, 85, 165)
+      display: block
+      color: white
+      font-family: Roboto
+      font-size: 13px
+      font-weight: 700
+      border: none
+      line-height: 1.55
+      padding: 0
+      margin: 0
+      margin-right: 3px
+      padding: 0
+      &:hover
+        background-color: rgb(25, 85, 165)
+  a
+    color: rgb(70, 70, 70)
+    font-family: Roboto
+    font-size: 13px
+    font-weight: 700
+    width: 20px
+    height: 20px
+    text-align: center
+    padding: 0
+    border: none
+    line-height: 1.55
+    margin-right: 3px
+    &:hover
+      background-color: rgb(25, 85, 165)
 
 
   

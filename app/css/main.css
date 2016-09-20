@@ -535,7 +535,56 @@ input#suggestion-area162 {
   display: none; }
 
 .homepage .pagination {
-  display: block; }
+  display: inline-block;
+  text-align: center; }
+  .homepage .pagination a {
+    display: inline-block; }
+  .homepage .pagination .fa {
+    font-family: Roboto;
+    width: 35px;
+    height: 12px;
+    content: "";
+    background-repeat: no-repeat;
+    background-position: 0 0; }
+    .homepage .pagination .fa:after {
+      display: none; }
+    .homepage .pagination .fa:before {
+      display: none; }
+  .homepage .pagination .fa-angle-left {
+    background-image: url("../img/toleft.png"); }
+  .homepage .pagination .fa-angle-right {
+    background-image: url("../img/toright.png"); }
+  .homepage .pagination .active span {
+    width: 20px;
+    height: 20px;
+    background-color: #1955a5;
+    display: block;
+    color: white;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 700;
+    border: none;
+    line-height: 1.55;
+    padding: 0;
+    margin: 0;
+    margin-right: 3px;
+    padding: 0; }
+    .homepage .pagination .active span:hover {
+      background-color: #1955a5; }
+  .homepage .pagination a {
+    color: #464646;
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 700;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    padding: 0;
+    border: none;
+    line-height: 1.55;
+    margin-right: 3px; }
+    .homepage .pagination a:hover {
+      background-color: #1955a5; }
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */
