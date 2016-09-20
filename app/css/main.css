@@ -437,7 +437,8 @@ input#suggestion-area162 {
   color: #1955a5 !important;
   font-family: Roboto !important;
   font-size: 25px !important;
-  font-weight: 700 !important; }
+  font-weight: 700 !important;
+  margin-top: -9px; }
 
 .items-leading article:first-child .postContent a:first-child {
   overflow: hidden;

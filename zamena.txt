@@ -14,3 +14,5 @@ templates\zo2_maxazine\html\mod_zt_news\newsiv\default.php
 картинки соцсетей в папку img шаблона
 создать модуль соцсетей в подвале
 настроить вывод категории в админке
+Z:\home\portal\www\templates\zo2_maxazine\html\com_content\category\blog.php
+Z:\home\portal\www\templates\zo2_maxazine\html\com_content\category\blog-item.php
