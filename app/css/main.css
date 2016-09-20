@@ -121,7 +121,7 @@ input#suggestion-area162 {
 .mod-headline-style4 .zt-category.headline .zt-main-items .zt-article_content {
   padding: 25px 30px; }
 
-.post-info {
+.zt-article_content .post-info {
   margin-bottom: 0; }
 
 .zt-main-items .zt-item .title-post {
@@ -136,7 +136,7 @@ input#suggestion-area162 {
 .tt-cmt, .tt-view {
   display: none; }
 
-.post-info {
+.zt-article_content .post-info {
   color: white;
   font-family: Roboto;
   font-size: 13px;
@@ -426,6 +426,38 @@ input#suggestion-area162 {
 
 #zo2-bottom-2-wrap {
   padding-top: 20px; }
+
+.homepage.featured #zo2-component-wrap {
+  display: block; }
+
+.blog .jcomments-links {
+  display: none; }
+
+.blog .page-header.title-block {
+  color: #1955a5 !important;
+  font-family: Roboto !important;
+  font-size: 25px !important;
+  font-weight: 700 !important; }
+
+.items-leading article:first-child .postContent a:first-child {
+  overflow: hidden;
+  width: 395px;
+  height: 200px;
+  display: block;
+  float: left;
+  margin-right: 23px; }
+
+.items-leading article:first-child img {
+  width: 395px;
+  height: auto;
+  margin: 0 !important;
+  border: none !important; }
+
+.items-leading .readmore {
+  display: none; }
+
+.items-leading .article-info {
+  display: none; }
 
 /*==========  Desktop First Method  ==========*/
 /* Large Devices, Wide Screens */

@@ -1,0 +1,16 @@
+
+поменять файл index.php шаблона
+создать в папке шаблона папку css и добавить в нее файл main.css
+templates\zo2_maxazine\html\mod_zt_news\newsiv3\default.php
+templates\zo2_maxazine\html\mod_zt_news\newsiv\default.php
+добавил суффикс класса модуля к модулю Популярные теги (пробел taggs)
+\templates\zo2_maxazine\html\mod_tagtransform\flat.php
+\templates\zo2_maxazine\html\modules.php
+настройка в админке шаблона и его позиций
+настройка шаблона новой позиции 25
+создал модуль о нас в позиции 25 по готовому меню
+создал модуль футре копирайт
+картнка лупы в папку img шаблона
+картинки соцсетей в папку img шаблона
+создать модуль соцсетей в подвале
+настроить вывод категории в админке

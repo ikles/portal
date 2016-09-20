@@ -119,8 +119,9 @@ input#suggestion-area162
   padding: 25px 30px
 
 
-.post-info 
-  margin-bottom: 0
+.zt-article_content
+  .post-info
+    margin-bottom: 0
   
 .zt-main-items .zt-item .title-post 
   margin-top: 30px
@@ -134,11 +135,12 @@ input#suggestion-area162
 .tt-cmt, .tt-view 
   display: none
 
-.post-info
-  color: white
-  font-family: Roboto
-  font-size: 13px
-  font-weight: 400
+.zt-article_content
+  .post-info
+    color: white
+    font-family: Roboto
+    font-size: 13px
+    font-weight: 400
   
 .zt-list-items .header-blog-item .title-post
   color: white
@@ -431,6 +433,42 @@ input#suggestion-area162
 #zo2-bottom-2-wrap
   padding-top: 20px
 
+.homepage.featured #zo2-component-wrap 
+  display: block
+
+
+.blog
+  .jcomments-links 
+    display: none
+  .page-header.title-block   
+    color: rgb(25, 85, 165) !important
+    font-family: Roboto !important
+    font-size: 25px !important
+    font-weight: 700 !important
+    
+
+.items-leading
+  article
+    &:first-child
+      .postContent
+        a
+          &:first-child
+            overflow: hidden
+            width: 395px
+            height: 200px
+            display: block
+            float: left
+            margin-right: 23px
+      img
+        width: 395px
+        height: auto
+        margin: 0 !important
+        border: none !important
+  .readmore
+    display: none
+  .article-info
+    display: none
+        
 
 
 
