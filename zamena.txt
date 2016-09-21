@@ -19,3 +19,5 @@ Z:\home\portal\www\templates\zo2_maxazine\html\com_content\category\blog-item.ph
 portal\www\templates\zo2_maxazine\html\pagination.php
 закгрузить картинки в папку шаблона создать папку img  
 настройка меток вывод изображений компоненты метки
+замена файорв тут \templates\zo2_maxazine\html\com_content\article
+Z:\home\portal\www\plugins\content\pagenavigation\tmpl\default.php
