@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template" client="site" method="upgrade">
+    <name>zo2_maxazine</name>   
+    <creationDate>Nov 07, 2015</creationDate>
+    <version>1.0.0</version>    
+    <author>ZooTemplate.com</author>    
+    <authorEmail>support@zootemplate.com</authorEmail>
+    <authorUrl>https://www.zootemplate.com/zo2</authorUrl>
+    <copyright>Copyright (c) 2008 - 2015 ZooTemplate.Com</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GPL v2 or later</license>
+    <description>
+        <![CDATA[
+                <img src="http://www.zootemplate.com/wp-content/uploads/zo2_framework.png" />
+                <p>The Zo2 MaxaZine is a clean modern responsive design that is a great place to start when building your custom Zo2 powered template.</p>
+                <p class="alert "><strong>Note:</strong> Zo2 MaxaZine requires Zo2 plugin to be installed and enabled.</p>             
+        ]]>
+    </description>
+
+    <positions>
+
+        <position>canvas-menu</position>         
+        <position>footer-copyright</position>   
+        <position>header-logo</position>    
+        <position>mega-menu</position>
+        <position>position-0</position>
+        <position>position-1</position>
+        <position>position-2</position>
+        <position>position-3</position>
+        <position>position-4</position>
+        <position>position-5</position>
+        <position>position-6</position>
+        <position>position-7</position>
+        <position>position-8</position>
+        <position>position-9</position>
+        <position>position-10</position>
+        <position>position-11</position> 
+        <position>position-12</position>
+        <position>position-13</position>   
+        <position>position-14</position> 
+        <position>position-15</position>
+        <position>position-16</position> 
+        <position>position-17</position>
+        <position>position-18</position>   
+        <position>position-19</position> 
+        <position>position-20</position> 
+        <position>position-21</position>
+        <position>position-22</position> 
+        <position>position-23</position>
+        <position>position-23-2</position>
+        <position>position-24</position>   
+        <position>position-25</position>  
+        <position>position-26</position>                                 
+        <position>slide</position>
+        <position>search-mobie</position>
+
+        <position>top</position>
+        <position>language</position>
+        <position>zt-position-0</position>
+        <position>header_logo</position>
+        <position>header_right</position>
+        <position>header_left</position>
+        <position>top_right</position>
+        <position>top-social</position>
+        <position>top-menu</position>
+        <position>search</position>
+        <position>logo</position>
+        <position>header_logo</position>
+        <position>mega_menu</position>
+        <position>canvas_menu</position>
+        <position>breadcrumb</position>     
+        <position>top-home</position>
+        <position>zt_slide</position>
+        <position>zt-position-0</position>
+        <position>zt-position-1</position>
+        <position>zt-position-2</position>
+        <position>zt-position-3</position>
+        <position>zt-position-4</position>
+        <position>main</position>
+        <position>user4</position>
+        <position>left</position>
+        <position>right</position>
+        <position>feature</position>
+        <position>testimonials</position>
+        <position>right-latestnew</position>
+        <position>zt-position-5</position>
+        <position>zt-position-6</position>
+        <position>zt-position-7</position>
+        <position>zt-position-8</position>
+        <position>content-bottom</position>
+        <position>bottom1</position>
+        <position>bottom2</position>
+        <position>bottom3</position>
+        <position>bottom4</position>
+        <position>footer_logo</position>
+        <position>footer1</position>
+        <position>footer2</position>
+        <position>footer_copyright</position>
+        <position>zt-position-9</position>
+        <position>zt-position-10</position>
+        <position>right-position-1</position>
+        <position>position-tab</position>
+        <position>position-11</position>
+        <position>position-12</position>
+        <position>contact-map</position>
+        <position>position-home2</position>
+        <position>position-home21</position>
+        <position>position-home22</position>
+        <position>zt-metro-scroll</position>
+        <position>zt-prosses</position>
+        <position>zt-prosses-about</position>
+        <position>zt-images-top</position>
+         <position>pricing</position>
+         <position>pricing-images</position>
+    </positions>
+
+    <files>
+        <filename>error.php</filename>     
+        <filename>index.html</filename>
+        <filename>index.php</filename>    
+        <filename>favicon.ico</filename>  
+        <filename>templateDetails.xml</filename> 
+        <filename>template_preview.png</filename>                         
+        <filename>template_thumbnail.png</filename>
+        <folder>html</folder>
+        <folder>includes</folder>
+        <folder>assets</folder>
+    </files>
+    <config>
+        <fields name="params" addfieldpath="/plugins/system/zo2/formfields">
+            <fieldset name="zo2">
+                <field name="zo2" type="zo2" layout="config" />
+            </fieldset>
+        </fields>
+    </config>
+</extension>

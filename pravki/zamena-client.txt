@@ -1,25 +1,11 @@
-
-+ поменять файл index.php шаблона
 в папку шаблона templates\zo2_maxazine\ добавить папку css
 заменить файл templates\zo2_maxazine\html\mod_zt_news\newsiv3\default.php  
 заменить файл templates\zo2_maxazine\html\mod_zt_news\newsiv\default.php 
-+ добавил суффикс класса модуля к модулю Популярные теги (пробел taggs)
 заменить файл \templates\zo2_maxazine\html\mod_tagtransform\flat.php 
 заменить файл \templates\zo2_maxazine\html\modules.php
 обновить файл \www\templates\zo2_maxazine\templateDetails.xml
-
-только потом настройка в админке шаблона и его позиций
-настройка шаблона новой позиции 25
-создал модуль о нас в позиции 25 по готовому меню
-
-
-
-+ создал модуль футре копирайт
 загрузить папку img в корень шаблона  \templates\zo2_maxazine\
-+ создать модуль соцсетей в подвале
-+ настроить вывод категории в админке
 заменить все файлы в папке templates\zo2_maxazine\html\com_content\category\
 заменить файл \templates\zo2_maxazine\html\pagination.php
-+ настройка меток вывод изображений компоненты метки
-замена файлов тут \templates\zo2_maxazine\html\com_content\article
+замена всех файлов тут \templates\zo2_maxazine\html\com_content\article
 заменить файл \plugins\content\pagenavigation\tmpl\default.php
